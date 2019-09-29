@@ -1,0 +1,5 @@
+1.Simple RNN Cell
+2.LSTM (Long-Short-Term-Memory)
+3.GRU (Gated Recurrent Unit)
+4.Bi-Directional RNNs
+5.Deep RNNs
